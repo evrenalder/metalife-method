@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "bf1eafc0cafb4843",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8fa4cc724ab6b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b1cd549aac2520",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c84f2add4c5d574",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f64aeac0153e23a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42dc064ad7a39075",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e67984abe915b875",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#memberOf/obsidianCommunity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "934c1b999e88707f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "6f812e53084e5e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e1e82431e4147f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ba7d4bac8ce3ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3964c45b51947979",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "123bb4846850677c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa121e1ead2430bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "57b1cd549aac2520",
+  "lastOpenFiles": [
+    "3 Resources/Templates/Template - Task.md",
+    "0 Home/Changelog.md",
+    "0 Home/Home.md",
+    "2 Areas/My PKLM/📈 Trackers/Weight Tracker.md",
+    "2 Areas/Journal/2023-11-26.md",
+    "2 Areas/Journal/2023-11-15.md",
+    "2 Areas/Journal/2023-11-13.md",
+    "2 Areas/Journal/2023-10-17.md",
+    "2 Areas/Journal/2023-10-15.md",
+    "2 Areas/Journal/202.md",
+    "2 Areas/Journal/2023-12-16.md",
+    "2 Areas/Journal/2023-12-15.md",
+    "2 Areas/Journal/2023-12-14.md",
+    "2 Areas/Journal/2023-12-13.md",
+    "3 Resources/Templates/Template - Daily Note.md",
+    "2 Areas/My PKLM/📈 Trackers",
+    "2 Areas/Journal",
+    "0 Home/My Home.md",
+    "2 Areas/My PKLM/My Values/My Values.md",
+    "3 Resources/Patterns/Sum-Limited Ranking.md",
+    "3 Resources/Patterns/Sum-Limited-Ranking-Diagram.png",
+    "3 Resources/Patterns/Sum-Limited-Ranking-Meme.png",
+    "Pasted image 20231118162646.png",
+    "3 Resources/Patterns",
+    "3 Resources/Templates/Template - Value.md",
+    "2 Areas/My PKLM/My Values/Writing.md",
+    "2 Areas/My PKLM/My Values/Dietary Health.md",
+    "3 Resources/Persons/S - T/Steph Ango.md",
+    "2 Areas/My PKLM/My Values",
+    "2 Areas/My PKLM",
+    "3 Resources/Persons/E - F/Ellane W.md",
+    "3 Resources/Persons/M - N/Nicole van der Hoeven/Nicole van der Hoeven.md",
+    "3 Resources/Persons/O - P/PJ Eby/PJ Eby.md",
+    "3 Resources/Persons/E - F",
+    "3 Resources/Persons/S - T",
+    "3 Resources/Organizations/Obsidian Community.md",
+    "3 Resources/Persons/O - P/PJ Eby",
+    "3 Resources/Persons/O - P",
+    "3 Resources/Persons/M - N/Nicole van der Hoeven"
+  ]
+}
