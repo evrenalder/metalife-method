@@ -1,19 +1,29 @@
 # Changelog
+
+## 1.3.2
+
+- Upgraded [Templater plugin](https://github.com/SilentVoid13/Templater) to version 2.1.0
+- Removed `0 Home/Home` file and `0 Home` folder in favor of `README` at root so that the same general information is also provided on the [project's GitHub landing page](https://github.com/evrenalder/metalife-method).
+- Installed [Homepage plugin](https://github.com/mirnovov/obsidian-homepage) and configured it to launch README on startup
+- Moved Changelog from `0 Home/` to `3 Resources/MetaLife Method®`
+- Disabled "Use Wikilinks" in Settings > Files and links
+	- One can still use double-brackets to create internal links, but the format written follows the markdown standard
+- Added the [Journal Archive](Journal%20Archive.md) folder under `4 Archive`.
 ## 1.3.1
 
 - Changed the created property on Template - Task.md to use a Templater expression for the date instead of the built-in expression type
 - Disabled the Templates core plugin in favor of Templater for all template operations.
 ## 1.3.0
 
-This version enables Daily Notes and the Tracker plugin. It demonstrates how weight can be recorded as a property on each daily note so that weight loss can be tracked on a [[Weight Tracker]] page.
+This version enables Daily Notes and the Tracker plugin. It demonstrates how weight can be recorded as a property on each daily note so that weight loss can be tracked on a [Weight Tracker](Weight%20Tracker.md) page.
 ## 1.2.0
 
-This version adds the Core Values subsystem, which can help you limit and prioritize values into a core set. See: [[My Values]] as a starting point; modify to create your own core set.
+This version adds the Core Values subsystem, which can help you limit and prioritize values into a core set. See: [My Values](My%20Values.md) as a starting point; modify to create your own core set.
 
 Other changes also included:
 
 - Added 2 new Persons to the #memberOf/obsidianCommunity 
-- Added a new pattern resource: [[Sum-Limited Ranking]]
+- Added a new pattern resource: [Sum-Limited Ranking](Sum-Limited%20Ranking.md)
 
 ## 1.1.0
 

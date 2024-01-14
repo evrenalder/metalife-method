@@ -1,7 +1,6 @@
 ---
 weight:
 ---
-
 # <% tp.file.title %>
 
 ---
